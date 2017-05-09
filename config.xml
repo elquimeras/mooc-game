@@ -9,4 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+	
+	<plugin name="cordova-plugin-whitelist"/>	
+	<plugin name="cordova-plugin-device-motion"/>
 </widget>
